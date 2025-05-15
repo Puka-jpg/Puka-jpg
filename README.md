@@ -1,4 +1,4 @@
-![AI Neural Network Banner](https://github.com/Puka-jpg/Puka-jpg/raw/main/ai_banner.jpg)
+![AI Neural Network Banner]([https://github.com/Puka-jpg/Puka-jpg/raw/main/ai_banner.jpg](https://github.com/Puka-jpg/Puka-jpg/blob/main/abstract_render_of_nn.webp))
 
 # 👋 Hey, I'm Pukar Kafle
 
