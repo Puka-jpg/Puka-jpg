@@ -14,7 +14,6 @@ I'm passionate about artificial intelligence and its potential to transform our 
 
 ## Skills & Technologies:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 <!-- Feel free to add more sections about your projects, education, etc. -->
